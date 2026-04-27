@@ -1,0 +1,11 @@
+/* SPDX-FileCopyrightText: 2026 Benjamin Ray Blaszczak */
+
+div.layout-root {
+    height: 100%;
+    display: flex;
+
+    main {
+        flex: 1 0;
+        overflow-y: auto;
+    }
+}

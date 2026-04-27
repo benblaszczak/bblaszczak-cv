@@ -1,0 +1,12 @@
+/* SPDX-FileCopyrightText: 2026 Benjamin Ray Blaszczak */
+
+aside.sidebar {
+    flex: 0 0 20%;
+    background-color: bisque;
+    padding: 2rem;
+
+    img#profile-pic {
+        border-radius: 50%;
+        width: 50%;
+    }
+}
