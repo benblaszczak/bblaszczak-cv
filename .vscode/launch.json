@@ -7,10 +7,9 @@
             "name": "Start using Default browser",
             "runtimeExecutable": "npm",
             "runtimeArgs": [
-                "run-script",
-                "start"
-            ],
-            "preLaunchTask": "npm: build"
+                "run",
+                "dev"
+            ]
         }
     ]
 }
